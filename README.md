@@ -1,4 +1,4 @@
-Presentation at PyCon2018
+Presentation at PyConIE2018
 
 Title: Prediction of risk factors for stroke using classification algorithms
 
